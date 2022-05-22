@@ -1,2 +1,0 @@
-# photo
-github图床
